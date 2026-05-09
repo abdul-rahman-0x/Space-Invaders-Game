@@ -38,7 +38,7 @@ The project is organized into three core modules:
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/your-username/Space-Invaders-Game.git
+   git clone https://github.com/abdul-rahman-0x/Space-Invaders-Game.git
 ```
 
 2. **Navigate to the directory:**
